@@ -13,6 +13,8 @@ I am passionate about turning bold scientific ideas into real-world impact. Thro
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="flex: 1 1 200px;"><i class="fa fa-book"></i> Nanotechnology</div>
-  <div style="flex: 1 1 200px;"><i class="fa fa-book"></i> Bioinspired Chemistry</div>
-  <div style="flex: 1 1 200px;"><i class="fa fa-book"></i> Drug-Free Therapies for Brain cancer, Diabetes & Obesity</div>
+  <div style="flex: 1 1 200px;"><i class="fa fa-book"></i> Organic Synthesis</div>
+  <div style="flex: 1 1 200px;"><i class="fa fa-book"></i> Chemical Biology</div>
+  <div style="flex: 1 1 200px;"><i class="fa fa-book"></i> Diabetes & Obesity</div>
+  <div style="flex: 1 1 200px;"><i class="fa fa-book"></i> Cancer Therapeautics</div>
 </div>
